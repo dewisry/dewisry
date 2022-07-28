@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dewisry
 - 👀 I’m interested in movie and food
-- 🌱 I’m currently learning computetational linguistics
+- 🌱 I’m currently learning computational linguistics
 - 💞️ I’m looking to collaborate on using NLP/ML in language variation
 - 📫 How to reach me Dewisurya94@gmail.com
 
